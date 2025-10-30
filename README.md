@@ -1,6 +1,6 @@
 ## About
 Resistor Value Calculator is a program that calculates resistance values of SMD and THT resistors.
-It is a C++ adaptation of [so1der's SMD Resistor Calculator](https://github.com/so1der/smd-resistors-calc)
+It is a C++ adaptation of [so1der's SMD Resistor Calculator](https://github.com/so1der/smd-resistors-calc) which is written in Python programming language.
 
 <img src="https://github.com/emirunlusoftware/Resistor-Value-Calculator/blob/main/assets/image1_main.png">
 
